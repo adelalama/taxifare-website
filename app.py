@@ -3,7 +3,9 @@ import requests
 from datetime import datetime
 import pandas as pd
 
-st.set_page_config(page_title="Taxi Fare Predictor", page_icon="🚖", layout="centered")
+'''
+# NYC Taxi Fare Calculator
+'''
 
 '''
 ## Detalles del viaje:
